@@ -1,17 +1,24 @@
 import type { Metadata, Viewport } from 'next'
-import { Playfair_Display, Dancing_Script } from 'next/font/google'
+import { Playfair_Display, Dancing_Script, Great_Vibes } from 'next/font/google'
 
 import './globals.css'
 
 const playfair = Playfair_Display({
-  subsets: ['latin'],
+  subsets: ['latin', 'latin-ext'],
   variable: '--font-playfair',
   display: 'swap',
 })
 
 const dancing = Dancing_Script({
-  subsets: ['latin'],
+  subsets: ['latin', 'latin-ext'],
   variable: '--font-dancing',
+  display: 'swap',
+})
+
+const greatVibes = Great_Vibes({
+  weight: '400',
+  subsets: ['latin', 'latin-ext'],
+  variable: '--font-great-vibes',
   display: 'swap',
 })
 
@@ -31,7 +38,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="tr">
-      <body className={`${playfair.variable} ${dancing.variable} font-sans antialiased overflow-hidden`}>
+      <body className={`${playfair.variable} ${dancing.variable} ${greatVibes.variable} font-sans antialiased overflow-hidden`}>
         {children}
       </body>
     </html>

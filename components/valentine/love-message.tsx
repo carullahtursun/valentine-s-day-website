@@ -35,20 +35,20 @@ export function LoveMessage({ show }: { show: boolean }) {
 
       <div className="space-y-3 text-center">
         <p
-          className="font-script text-lg md:text-xl leading-relaxed"
+          className="font-message text-xl md:text-2xl leading-relaxed"
           style={{ color: "hsl(340, 40%, 80%)" }}
         >
           {message.line1}
         </p>
         <p
-          className="font-script text-lg md:text-xl leading-relaxed"
+          className="font-message text-xl md:text-2xl leading-relaxed"
           style={{ color: "hsl(340, 40%, 80%)" }}
         >
           {message.line2}
         </p>
         <div className="pt-2 flex items-center justify-center gap-2">
           <div className="h-px w-8 bg-gradient-to-r from-transparent to-[hsl(348,83%,55%)]/30" />
-          <span className="font-script text-base" style={{ color: "hsl(40, 60%, 58%)" }}>
+          <span className="font-message text-lg" style={{ color: "hsl(40, 60%, 58%)" }}>
             {message.closing}
           </span>
           <div className="h-px w-8 bg-gradient-to-l from-transparent to-[hsl(348,83%,55%)]/30" />

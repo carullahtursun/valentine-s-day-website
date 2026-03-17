@@ -101,13 +101,13 @@ export default function ValentinePage() {
                 textShadow: "0 0 40px rgba(220,38,38,0.3)",
               }}
             >
-              {'Sana bir surprizim var...'}
+              {'Sana bir sürprizim var...'}
             </p>
             <p
               className="text-xs md:text-sm tracking-[0.35em] uppercase font-serif"
               style={{ color: "hsl(40, 60%, 55%)" }}
             >
-              {'14 Subat Sevgililer Gunu'}
+              {'14 Şubat Sevgililer Günü'}
             </p>
           </div>
 
@@ -124,7 +124,7 @@ export default function ValentinePage() {
               <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
                 <path d="M12 21.35L10.55 20.03C5.4 15.36 2 12.28 2 8.5C2 5.42 4.42 3 7.5 3C9.24 3 10.91 3.81 12 5.09C13.09 3.81 14.76 3 16.5 3C19.58 3 22 5.42 22 8.5C22 12.28 18.6 15.36 13.45 20.04L12 21.35Z" />
               </svg>
-              {'Ac ve Gor'}
+              {'Aç ve Gör'}
               <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
                 <path d="M12 21.35L10.55 20.03C5.4 15.36 2 12.28 2 8.5C2 5.42 4.42 3 7.5 3C9.24 3 10.91 3.81 12 5.09C13.09 3.81 14.76 3 16.5 3C19.58 3 22 5.42 22 8.5C22 12.28 18.6 15.36 13.45 20.04L12 21.35Z" />
               </svg>
@@ -178,7 +178,7 @@ export default function ValentinePage() {
               animationFillMode: "both",
             }}
           >
-            {'Seni cok seviyorum...'}
+            {'Seni çok seviyorum...'}
           </p>
         </div>
       </main>
@@ -229,7 +229,7 @@ export default function ValentinePage() {
             className="text-xs md:text-sm tracking-[0.3em] uppercase font-serif"
             style={{ color: "hsl(40, 60%, 58%)" }}
           >
-            {'14 Subat 2026'}
+            {'14 Şubat 2026'}
           </span>
           <div className="animate-heartbeat">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="hsl(348,83%,55%)" aria-hidden="true">
@@ -240,7 +240,7 @@ export default function ValentinePage() {
             className="text-xs md:text-sm tracking-[0.3em] uppercase font-serif"
             style={{ color: "hsl(40, 60%, 58%)" }}
           >
-            {'Sevgililer Gunu'}
+            {'Sevgililer Günü'}
           </span>
         </div>
 
@@ -277,7 +277,7 @@ export default function ValentinePage() {
 
         {/* Subtitle with typewriter */}
         <TypewriterText
-          text="Seni seviyorum, bugun ve her gun..."
+          text="Seni seviyorum, bugün ve her gün..."
           show={showMain}
           delay={2000}
         />
