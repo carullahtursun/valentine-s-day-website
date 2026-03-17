@@ -1,9 +1,11 @@
 "use client"
 
 import { useEffect, useState } from "react"
+import { getDailyMessage } from "./daily-messages"
 
 export function LoveMessage({ show }: { show: boolean }) {
   const [visible, setVisible] = useState(false)
+  const message = getDailyMessage()
 
   useEffect(() => {
     if (!show) return
@@ -36,18 +38,18 @@ export function LoveMessage({ show }: { show: boolean }) {
           className="font-script text-lg md:text-xl leading-relaxed"
           style={{ color: "hsl(340, 40%, 80%)" }}
         >
-          {'Hayatima girdigin ilk andan itibaren her sey daha guzel, daha anlamli oldu. Sen benim en guzel gul bahcemin en nadide cicegi, kalbimin tek sahibisin.'}
+          {message.line1}
         </p>
         <p
           className="font-script text-lg md:text-xl leading-relaxed"
           style={{ color: "hsl(340, 40%, 80%)" }}
         >
-          {'Bu ozel gunde sana sonsuz askimi ve sevgimi sunuyorum. Seninle gecen her an, hayatimin en degerli hediyesi.'}
+          {message.line2}
         </p>
         <div className="pt-2 flex items-center justify-center gap-2">
           <div className="h-px w-8 bg-gradient-to-r from-transparent to-[hsl(348,83%,55%)]/30" />
           <span className="font-script text-base" style={{ color: "hsl(40, 60%, 58%)" }}>
-            {'Sonsuz askla, seni cok seviyorum'}
+            {message.closing}
           </span>
           <div className="h-px w-8 bg-gradient-to-l from-transparent to-[hsl(348,83%,55%)]/30" />
         </div>
