@@ -36,7 +36,7 @@ export const dailyMessages: DailyMessage[] = [
     closing: "Sonsuz sevgimle, seni cok seviyorum",
   },
   {
-    line1: "Seninle taniştıgım gun hayatimin en guzel gunu. O gunden beri her sey daha renkli, daha canli.",
+    line1: "Seninle tanistigim gun hayatimin en guzel gunu. O gunden beri her sey daha renkli, daha canli.",
     line2: "Sen benim karanligimda isigim, sogugumda sicakligimsin. Seni sevmek bana hayati ogretti.",
     closing: "Askimla, sonsuza dek",
   },
@@ -61,12 +61,12 @@ export const dailyMessages: DailyMessage[] = [
     closing: "Yildizlar kadar seni seviyorum",
   },
   {
-    line1: "Ellerini tuttugumda dunyanin en guclü insani oluyorum. Sen benim gucum, ilhamim, her seyimsin.",
+    line1: "Ellerini tuttugumda dunyanin en guclu insani oluyorum. Sen benim gucum, ilhamim, her seyimsin.",
     line2: "Hayatimda en dogru karar seni sevmek oldu. Seninle her sey mumkun, seninle her sey guzel.",
     closing: "Sonsuz askimla seninleyim",
   },
   {
-    line1: "Sesin kulaklarimda bir melodi, varligin hayatimda bir senFoni. Sensiz bir an bile dusunmek istemiyorum.",
+    line1: "Sesin kulaklarimda bir melodi, varligin hayatimda bir senfoni. Sensiz bir an bile dusunmek istemiyorum.",
     line2: "Sen benim baharim, yazim, her mevsimim. Seninle gecen omrumun her ani bir hediye.",
     closing: "Askla ve ozlemle, seni seviyorum",
   },
@@ -102,7 +102,7 @@ export const dailyMessages: DailyMessage[] = [
   },
   {
     line1: "Sen benim icin okyanusun en derin noktasi kadar derin bir ask. Seni kesfetmekle bitmeyecek.",
-    line2: "Seninle her zorluk kolaylasir, her uzuntu sevince donusur. Cunku sen varsin yanımda.",
+    line2: "Seninle her zorluk kolaylasir, her uzuntu sevince donusur. Cunku sen varsin yanimda.",
     closing: "Sonsuz sevgiyle seninleyim",
   },
   {
@@ -142,22 +142,22 @@ export const dailyMessages: DailyMessage[] = [
   },
   {
     line1: "Gecenin en karanlik aninda bile senin isigini hissediyorum. Sen benim ayim, gunesim, yildizimsin.",
-    line2: "Seninle uyandıgım her sabah, hayatimin en guzel hediyesi. Sana sukrediyorum.",
+    line2: "Seninle uyandigim her sabah, hayatimin en guzel hediyesi. Sana sukrediyorum.",
     closing: "Minnettar ve asikla, seni seviyorum",
   },
   {
-    line1: "Senin icin yazdıgım her kelime, kalbimden kopan bir parca. Seni anlatmak icin kelimeler yetmiyor.",
+    line1: "Senin icin yazdigim her kelime, kalbimden kopan bir parca. Seni anlatmak icin kelimeler yetmiyor.",
     line2: "Ama su kadarini bilmelisin: Sen benim her seyimsin. Dunya dursa bile seni sevmeye devam edecegim.",
     closing: "Kelimeler yetmez, seni cok seviyorum",
   },
   {
     line1: "Bir resim cizsem, en guzel renkler senin icin olurdu. Cunku sen hayatimin en canli rengi.",
-    line2: "Seni sevmek bir sanat, her gun yeni bir tablo. Ve bu tablonun en guzel figurü sensin.",
+    line2: "Seni sevmek bir sanat, her gun yeni bir tablo. Ve bu tablonun en guzel figuru sensin.",
     closing: "Rengarenk askimla seni seviyorum",
   },
   {
     line1: "Deniz kadar derin, gokyuzu kadar sonsuz bir askla seviyorum seni. Bu ask hic bitmeyecek.",
-    line2: "Sen benim hayat arkadaşım, can yoldaşım, ruhumun ikizi. Seninle her sey anlamli.",
+    line2: "Sen benim hayat arkadasim, can yoldasim, ruhumun ikizi. Seninle her sey anlamli.",
     closing: "Sonsuzluk kadar seni seviyorum",
   },
   {
@@ -171,8 +171,8 @@ export const dailyMessages: DailyMessage[] = [
     closing: "Tek dilegim sensin, seni seviyorum",
   },
   {
-    line1: "Gokyuzundeki her yildiz bir anımız olsa, gokyuzu yetmezdi. Cunku seninle yasadigimiz anlar sayisiz.",
-    line2: "Her animiz bir hazine, her gülüsün bir mucize. Seninle hayat bir masal.",
+    line1: "Gokyuzundeki her yildiz bir animiz olsa, gokyuzu yetmezdi. Cunku seninle yasadigimiz anlar sayisiz.",
+    line2: "Her animiz bir hazine, her gulusun bir mucize. Seninle hayat bir masal.",
     closing: "Masalimdaki tek prenses sensin",
   },
   {
@@ -182,7 +182,7 @@ export const dailyMessages: DailyMessage[] = [
   },
   {
     line1: "Zamani durdurmak isterdim, ama sadece seninle gecen anlar icin. Cunku o anlar hayatimin en guzel anlari.",
-    line2: "Sana olan askım zamana meydan okuyor. Yillar gecse de askimiz hep ayni, hep guclu.",
+    line2: "Sana olan askim zamana meydan okuyor. Yillar gecse de askimiz hep ayni, hep guclu.",
     closing: "Zamansiz askimla seninleyim",
   },
   {
@@ -221,13 +221,13 @@ export const dailyMessages: DailyMessage[] = [
     closing: "Hikayemiz sonsuz, seni seviyorum",
   },
   {
-    line1: "Seninle yurudigum yollar cennet, seninle paylaştigim anlar ebedi. Sen benim hayatimin anlami.",
+    line1: "Seninle yurudigum yollar cennet, seninle paylastigim anlar ebedi. Sen benim hayatimin anlami.",
     line2: "Dunya donmeye devam ettikce, ben seni sevmeye devam edecegim. Bu sozum sana.",
     closing: "Sozum sana, sonsuz askla seni seviyorum",
   },
   {
     line1: "Sen benim rugarimdaki sicaklik, yagmurumdaki huzur. Her havada, her kosulda seninle mutluyum.",
-    line2: "Firtinaida da güneşte de elini birakamam. Cunku sen benim dengemsin, benim huzurum.",
+    line2: "Firtinada da guneste de elini birakamam. Cunku sen benim dengemsin, benim huzurum.",
     closing: "Her kosulda seni seviyorum",
   },
   {
@@ -251,18 +251,18 @@ export const dailyMessages: DailyMessage[] = [
     closing: "Evrenin hediyesi sensin, seni seviyorum",
   },
   {
-    line1: "Her gun uyandıgımda seni dusunuyorum, her gece uyurken seni hayal ediyorum. Sen benim 24 saatimsin.",
+    line1: "Her gun uyandigimda seni dusunuyorum, her gece uyurken seni hayal ediyorum. Sen benim 24 saatimsin.",
     line2: "Gunun her saniyesinde kalbimdesin. Seni sevmek benim icin zaman tanimayan bir duygu.",
     closing: "Her saniye seni seviyorum",
   },
   {
     line1: "Seninle el ele yurudigumde dunyanin en zengin insani oluyorum. Cunku en buyuk zenginlik ask.",
-    line2: "Ve benim askım sonsuz, benim askım sinir tanimaz. Seni dunyanın en derin kosesinden seviyorum.",
+    line2: "Ve benim askim sonsuz, benim askim sinir tanimaz. Seni dunyanin en derin kosesinden seviyorum.",
     closing: "En buyuk zenginligim sensin, seni seviyorum",
   },
   {
     line1: "Bir fotografa sigin seni, ama kalbime sigamayacak kadar buyuk bir yerin var.",
-    line2: "Seni her gorduğumde kalbim buyuyor, ruhumda yeni bir oda aciliyor. Sana olan askım sinirsiz.",
+    line2: "Seni her gordugumde kalbim buyuyor, ruhumda yeni bir oda aciliyor. Sana olan askim sinirsiz.",
     closing: "Sinirsiz askimla seni seviyorum",
   },
   {
@@ -283,15 +283,15 @@ export const dailyMessages: DailyMessage[] = [
   {
     line1: "Seninle tanismadan onceki hayatimi hatirlayamiyorum bile. Cunku gercek hayat seninle basladi.",
     line2: "Sen benim yeniden dogusumun sebebisin. Seni sevmek bana yeni bir hayat verdi.",
-    closing: "Yeni hayatim sensinle, seni seviyorum",
+    closing: "Yeni hayatim seninle, seni seviyorum",
   },
   {
     line1: "Yagmurda islanmak seninle romantik, gunesin altinda yurumek seninle keyifli. Her an seninle guzel.",
-    line2: "Hava ne olursa olsun, nerede olursak olalim, sen yanımdaysan mutluyum.",
+    line2: "Hava ne olursa olsun, nerede olursak olalim, sen yanimdaysan mutluyum.",
     closing: "Her halde seni seviyorum",
   },
   {
-    line1: "Bir bahce dolusu gul bile senin tek gülüsün kadar guzel degildir. Sen guzelligin ta kendisisin.",
+    line1: "Bir bahce dolusu gul bile senin tek gulusun kadar guzel degildir. Sen guzelligin ta kendisisin.",
     line2: "Dunyanin butun cicekleri solsa bile, senin guzelligin asla solmeyecek. Cunku sen kalbimde cicek aciyorsun.",
     closing: "Kalbimde cicek aciyorsun, seni seviyorum",
   },
@@ -307,7 +307,7 @@ export const dailyMessages: DailyMessage[] = [
   },
   {
     line1: "Sonsuzluk kavrami senin icin yaratilmis. Cunku sana olan askim sonsuz, sana olan ozlemim bitmez.",
-    line2: "Yaninday ken bile seni ozluyorum, cunku seni bir omur degil, bin omur sevmek istiyorum.",
+    line2: "Yanindayken bile seni ozluyorum, cunku seni bir omur degil, bin omur sevmek istiyorum.",
     closing: "Bin omur seni sevecegim",
   },
 ]
