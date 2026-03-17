@@ -71,6 +71,7 @@ const config: Config = {
         sans: ['var(--font-playfair)'],
         serif: ['var(--font-playfair)'],
         script: ['var(--font-dancing)'],
+        message: ['var(--font-great-vibes)'],
       },
       keyframes: {
         'accordion-down': {
